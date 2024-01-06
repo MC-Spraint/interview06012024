@@ -1,0 +1,17 @@
+1. **Create Operation:**
+   - Design an API endpoint to add a new task to the system. Include fields such as task title, description, due date, and priority.
+
+
+2. **Read Operation:**
+   - Implement an API endpoint to retrieve the details of a specific task using its unique identifier.
+   - Create an API endpoint to fetch all tasks or filter tasks based on criteria such as priority or due date.
+
+
+3. **Update Operation:**
+   - Develop an API endpoint to update the details of an existing task. Users should be able to modify task title, description, due date, and priority.
+
+4. **Delete Operation:**
+   - Implement an API endpoint to delete a task by its unique identifier.
+
+5. **Summary API:**
+   - Create an API endpoint that generates a summary of tasks based on a specified criteria (e.g., tasks due in the next 7 days, tasks with high priority). The summary should include key information about each task.
